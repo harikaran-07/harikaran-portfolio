@@ -1,1 +1,1 @@
-https://github.com/harikaran-07/harikaran-portfolio
+https://harikaran-07.github.io/harikaran-portfolio/
