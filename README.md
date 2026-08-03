@@ -3,7 +3,7 @@
 
 A modern, responsive personal portfolio website that showcases my skills, projects, and achievements as an aspiring AI & ML student and Web Developer. This portfolio reflects my journey in frontend development and serves as a central place to highlight my work.
 
-LIVE DEMO : https://harikaran-07.github.io/harikaran-portfolio/
+🔗 Live Demo : https://harikaran-07.github.io/harikaran-portfolio/
 
 🚀 Features
 
